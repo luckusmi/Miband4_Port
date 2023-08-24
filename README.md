@@ -1,7 +1,8 @@
 # Miband4_Port
 Это порт стоковых ресурсов* от Mi Band 4 в 5-ую версия
-[!WARNING]
-**ВСЕ ВЫПОЛНЯЕТСЯ НА СВОЙ СТРАХ И РИСК**
+
+>[!WARNING]
+>**ВСЕ ВЫПОЛНЯЕТСЯ НА СВОЙ СТРАХ И РИСК**
 
 ![alt text](https://img.shields.io/badge/release-0.2-green)
 ![alt text](https://img.shields.io/badge/ONLY-MIBAND%205-red)
