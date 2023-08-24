@@ -3,5 +3,5 @@
 
 
 
-Все изменения в этой [ссылке]([https://pages.github.com/](https://github.com/luckusmi/Miband4_Port/blob/main/Edit)https://github.com/luckusmi/Miband4_Port/blob/main/Edit).
+Все изменения в этой [ссылке](https://github.com/luckusmi/Miband4_Port/blob/main/Edit).
 
