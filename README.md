@@ -8,9 +8,10 @@
 
 # Установка
 1.Android
-Скачиваете приложение из [Google Play](https://play.google.com/store/apps/details?id=com.mc.miband1) или из [AppGalery](https://appgallery.huawei.com/app/C105746385?sharePrepath=ag&locale=ru_RU&source=appshare&subsource=C105746385&shareTo=com.google.android.gm&shareFrom=appmarket&shareIds=70385539f32142af851f20bafb9016e8_com.google.android.gm&callType=SHARE%25A0) если у вас Huawei
 
-Подключаете браслет к телефону и захотете в _Инструменты-Обновление прошивки браслета-и выбираете файл ресурсов_**.res** и ожидаете окончание процесса
+- Скачиваете приложение из [Google Play](https://play.google.com/store/apps/details?id=com.mc.miband1) или из [AppGalery](https://appgallery.huawei.com/app/C105746385?sharePrepath=ag&locale=ru_RU&source=appshare&subsource=C105746385&shareTo=com.google.android.gm&shareFrom=appmarket&shareIds=70385539f32142af851f20bafb9016e8_com.google.android.gm&callType=SHARE%25A0) если у вас Huawei
+
+- Подключаете браслет к телефону и захотете в _Инструменты-Обновление прошивки браслета-и выбираете файл ресурсов_**.res** и ожидаете окончание процесса
 
 
 Все изменения в этой [ссылке](https://github.com/luckusmi/Miband4_Port/blob/Main/Edit.md).
